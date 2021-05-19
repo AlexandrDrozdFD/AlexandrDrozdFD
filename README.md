@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB. Also learning new frameworks and acquisition of experience, growth in «horizontal» direction, improving my foreign language skills.
 
 
 
